@@ -1,0 +1,4 @@
+Set : Set is the unique collection of unordered items.
+Each element in the set must be unique and immutable.
+List and Dictionaries can not be stored in sets as they are mutable.
+Set is mutable but the elements of a set are immutable.

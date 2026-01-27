@@ -1,0 +1,5 @@
+dict.keys() : returns all keys
+dict.values() : returns all values
+dict.items() : returns all (key, value) pairs as tuples
+dict.get("key") : returns all the key according to value
+dict.update(newDict) : inserts the specified items to the dictionary
