@@ -1,6 +1,6 @@
 # Arithmetic Operators -> +, -, *, /, %, **
-a = 5
-b = 2
+a = 7
+b = 4
 
 print(a+b) #addition operator
 print(a-b) #subtraction operator
@@ -48,3 +48,5 @@ print("AND operator:", val1 and val2)
 
 print("OR operator:", (f==g) or (f > g)) # False or False => False
 print("OR operator:", (f==g) or (f < g)) # False or True => True
+
+print("NOT Operator: ", not val1)
