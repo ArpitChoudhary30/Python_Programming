@@ -1,0 +1,14 @@
+RECURSION:
+    When a function calls itself repeatedly.
+
+#print n to 1 backwards
+
+def show(n):
+    if(n == 0):  ->base case : the condition which stops function calls
+        return
+    print(n)
+    show(n-1)
+
+-> HOW DOES A RECURSION WORK?
+We initially call a function, and define a calling function inside the main called function, this repeated function calling occurs,
+until the base condition is met.
