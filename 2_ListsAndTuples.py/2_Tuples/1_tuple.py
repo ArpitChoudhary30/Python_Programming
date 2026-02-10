@@ -14,7 +14,7 @@ tup = ()
 print(tup)
 print(type(tup))
 
-tup1 = (1) #considered a tuple
+tup1 = (1) #considered an integer data type
 print(type(tup1))
 
 tup2 = (1,) # use a comma to make it a tuple
